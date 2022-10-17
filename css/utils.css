@@ -1,0 +1,44 @@
+.flex
+{
+    display: flex;
+}
+
+.items-center
+{
+    align-items: center;
+}
+
+.justify-center
+{
+    justify-content: center;
+}
+
+.space-between
+{
+    justify-content: space-between;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+    cursor:pointer;
+}
+
+.semibold
+{
+    font-weight: bolder;
+}
+
+.mx-2
+{
+    margin:0 12px 0 12px;
+    font-family: sans-serif;
+    cursor:pointer;
+}
+
+.flexwrap
+{
+    flex-wrap: wrap;
+}
+
+
